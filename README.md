@@ -1,6 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=timeGradient&height=300&section=header&text=Hi%20there&fontAlign=80&fontSize=90&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=slice&color=timeGradient&height=300&section=header&text=Hi%20there%20👋🏻&fontAlign=70&fontAlignY=25&fontSize=90&animation=fadeIn)
 
-### I'm Matthias 👋
+### I'm Matthias 👨🏼‍💻
 
 
 
