@@ -7,7 +7,7 @@
 <h3 align="center">new to the virtual magic of web development</h3>
 
 
-- 🔭 I’m currently working on [choicely](https://github.com/Matt-1985/choicely)
+- 🔭 I’m currently working on [100 Days of UI](https://dribbble.com/Matt_RdF)
 
 - 🌱 I’m currently learning **everything about UX and UI Design**
 
