@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available on [my Portfolio](https://matthiasrodriguesdefranca.de/)
 
-- 📫 How to reach me **matthias.rodrigesdefranca@gmail.com**
+- 📫 How to reach me **matthias.rodriguesdefranca@gmail.com**
 
 - ⚡ Fun fact **You get help if you ask 🤟🏻**
 
