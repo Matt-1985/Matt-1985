@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on [choicely](https://github.com/Matt-1985/choicely)
 
-- 🌱 I’m currently learning **everything about Frontend**
+- 🌱 I’m currently learning **everything about UX and UI Design**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Matt-1985](https://github.com/Matt-1985)
+- 👨‍💻 All of my projects are available on [my Portfolio](https://matthiasrodriguesdefranca.de/)
 
 - 📫 How to reach me **matthias.rodrigesdefranca@gmail.com**
 
